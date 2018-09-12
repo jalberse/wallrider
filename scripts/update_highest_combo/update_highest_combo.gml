@@ -1,0 +1,1 @@
+if (score - state_var[1] > highest_combo) highest_combo = score - state_var[1];
